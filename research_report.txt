@@ -1,0 +1,55 @@
+
+CONTENT MATURITY, RELEASE LIFECYCLE
+AND PLAYLIST ROTATION ANALYSIS
+===================================
+
+
+RESEARCH SUMMARY
+----------------
+
+Average Song Lifetime:
+47.6 days
+
+
+Evergreen Songs Count:
+145
+
+
+Average Playlist Churn Rate:
+6.07%
+
+
+
+TOP 10 LONGEST RUNNING SONGS
+----------------------------
+
+       song                                  artist  total_days
+ La Bachata                           Manuel Turizo         538
+   Columbia                                 Quevedo         463
+  VAGABUNDO Sebastian Yatra & Manuel Turizo & Beéle         385
+   LA FALDA                             Myke Towers         359
+       LUNA                                    Feid         357
+      QLONA                                 KAROL G         342
+Manos Rotas                     DELLAFUENTE & Morad         329
+El Merengue                              Marshmello         317
+       LALA                             Myke Towers         310
+ BABY HELLO                          Rauw Alejandro         282
+
+
+
+CONCLUSION
+----------
+
+This research analyzes the lifecycle behavior
+of Spain Top 50 songs.
+
+Songs with longer chart presence show stronger
+audience retention and long-term popularity.
+
+Playlist rotation analysis helps understand
+how frequently songs enter and leave the chart.
+
+The study identifies temporary trending songs
+and evergreen songs that maintain popularity
+for a longer period.
+
